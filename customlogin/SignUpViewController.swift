@@ -42,6 +42,8 @@ class SignUpViewController: UIViewController {
         let email = emailtxt.text
         let password = emailtxt.text
         
+        print("added")
+        
         Auth.auth().createUser(withEmail: email!, password: password!) { (result, err) in
             if err != nil{
                 print("//////////error")
