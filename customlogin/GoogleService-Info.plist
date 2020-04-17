@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>116738530275-57jd3am6pigf2b56v6gcp06v0i5p0mib.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.116738530275-57jd3am6pigf2b56v6gcp06v0i5p0mib</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWsiHoa41G60P-4QnlOzIknt9pNNo2PxQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>116738530275</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>evneet.customlogin</string>
+	<key>PROJECT_ID</key>
+	<string>fir-demo-8cb1a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-demo-8cb1a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:116738530275:ios:8bc80d8c8143b48830ded6</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-demo-8cb1a.firebaseio.com</string>
+</dict>
+</plist>
